@@ -73,8 +73,6 @@ class Animal {
         print("\(name) makes a sound")
     }
 }
-import Math
-throw NetworkError.offline
 """
 
 # Initialize variables
