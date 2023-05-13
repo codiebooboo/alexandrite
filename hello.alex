@@ -1,1 +1,4 @@
-print("Hello, world!")
+// main.alex
+func main() {
+    print("Hello, World!")
+}
